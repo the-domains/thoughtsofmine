@@ -1,8 +1,7 @@
+name: thoughtsofmine
+favicon: null
+layout_spectrum: 0.9292620255146176
 typography_spectrum: 0.8194513055495918
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.9292620255146176
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6795018396805972
-  brandStrength: 0.8084231619723141
-  rhythmicContrast: 0.428290291223675
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0.8084231619723141
   lightness: 0.8693630574271083
+  saturation: 0.6795018396805972
+  rhythmicContrast: 0.428290291223675
 purpose: []
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: thoughtsofmine
